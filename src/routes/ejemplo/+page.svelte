@@ -1,0 +1,1 @@
+<h1>Soy la ruta ejemplo</h1>
