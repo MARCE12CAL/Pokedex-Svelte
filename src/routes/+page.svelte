@@ -1,7 +1,7 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
-
 <script>
-    import Heading from "$lib/components/heading.svelte";
+	import Heading from "$lib/components/heading.svelte";
+	import PokemonList from "$lib/components/pokemon-list.svelte";
 </script>
-<Heading/>
+
+<Heading />
+<PokemonList />
